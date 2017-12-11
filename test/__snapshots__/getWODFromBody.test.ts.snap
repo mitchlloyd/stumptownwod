@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`responding for a 2-metcon workout 1`] = `
+"<p>Metcon (3 Rounds for calories)</p>
+<s>12 Goblet squats 70/53</s>
+<s><say-as interpret-as=\\"time\\">2'00\\"</say-as> Max calories on Bike</s>
+<s>Rest: 2 minutes</s>
+<s>3 times</s>
+<p>Metcon (3 Rounds for distance)</p>
+<s>12 Clean High Pulls</s>
+<s><say-as interpret-as=\\"time\\">2'00\\"</say-as> Max Meters on Rower</s>
+<s>Rest 2 minutes</s>
+<s>3 times</s>"
+`;
+
+exports[`responding for a hatch-squat workout 1`] = `
+"<p>Back Squat (Hatch: Week 9/ Day 2)</p>
+<p>Front Squat (Hatch: Week 9/ Day 2)</p>
+<p>Metcon (Time)</p>
+<s>sets of 21, 15, and 9</s>
+<s>chest to bar Pull-ups</s>
+<s>hand stand push-ups</s>"
+`;
+
+exports[`responding for a hero workout 1`] = `
+"<p>Coffland (Time)</p>
+<s>Hang from a pull-up bar for 6 minutes</s>
+<s>Each time you drop from the bar, perform:</s>
+<s>800-m run</s>
+<s>30 push-ups</s>"
+`;
+
+exports[`responding for a standard workout 1`] = `
+"<p>Metcon (Time)</p>
+<s>For Time:</s>
+<s>1 Mile Run</s>
+<s>100 Box Jumps 24/20</s>
+<s>800m Run</s>
+<s>100 Wall Balls 20/14</s>
+<s>1 Mile Run</s>"
+`;
